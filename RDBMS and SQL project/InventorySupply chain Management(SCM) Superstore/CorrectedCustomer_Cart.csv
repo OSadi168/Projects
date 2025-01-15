@@ -1,0 +1,794 @@
+CustomerID, CustomerName, CustomerPhNo, CustomerAddress, Password
+Cust1,Claire Gute,9167035808,"Henderson,Kentucky,United States",NZ76S29
+Cust2,Darrin Van Huff,7495777225,"Los Angeles,California,United States",ND90W12
+Cust3,Sean O'Donnell,3795373234,"Fort Lauderdale,Florida,United States",NX38M64
+Cust4,Brosina Hoffman,6294416804,"Los Angeles,California,United States",NV88D78
+Cust5,Andrew Allen,3679518407,"Concord,North Carolina,United States",AE99W75
+Cust6,Irene Maddox,7463638317,"Seattle,Washington,United States",OT72B27
+Cust7,Harold Pawlan,3942743838,"Fort Worth,Texas,United States",PQ73Z44
+Cust8,Pete Kriz,1346215110,"Madison,Wisconsin,United States",VG74A57
+Cust9,Alejandro Grove,2701000759,"West Jordan,Utah,United States",PD48M70
+Cust10,Zuschuss Donatelli,7778282522,"San Francisco,California,United States",BV49D76
+Cust11,Ken Black,6236589753,"Fremont,Nebraska,United States",XY28B65
+Cust12,Sandra Flanagan,2809077513,"Philadelphia,Pennsylvania,United States",PB49T27
+Cust13,Emily Burns,3321567063,"Orem,Utah,United States",IT19W93
+Cust14,Eric Hoffmann,1539245596,"Los Angeles,California,United States",AI34B49
+Cust15,Tracy Blumstein,6567072362,"Philadelphia,Pennsylvania,United States",OC63J62
+Cust16,Matt Abelman,1746360832,"Houston,Texas,United States",OP17L45
+Cust17,Gene Hale,1513059551,"Richardson,Texas,United States",PE19N72
+Cust18,Steve Nguyen,8172581192,"Houston,Texas,United States",XG64O80
+Cust19,Linda Cazamias,5657972697,"Naperville,Illinois,United States",RK72K58
+Cust20,Ruben Ausman,3036890144,"Los Angeles,California,United States",RX38X12
+Cust21,Erin Smith,6313200621,"Melbourne,Florida,United States",MS22N72
+Cust22,Odella Nelson,3417032732,"Eagan,Minnesota,United States",GL97T44
+Cust23,Patrick O'Donnell,3583315433,"Westland,Michigan,United States",SU57R82
+Cust24,Lena Hernandez,7043338152,"Dover,Delaware,United States",OO51X56
+Cust25,Darren Powers,9634610812,"New Albany,Indiana,United States",QH15X17
+Cust26,Janet Molinari,9187461791,"New York City,New York,United States",TW27U22
+Cust27,Ted Butterfield,2644790016,"Troy,New York,United States",LB19K24
+Cust28,Kunst Miller,1852485256,"Los Angeles,California,United States",HI90G88
+Cust29,Paul Stevenson,7008946131,"Chicago,Illinois,United States",DU42I34
+Cust30,Brendan Sweed,5211925687,"Gilbert,Arizona,United States",WP32H25
+Cust31,Karen Daniels,4512086803,"Springfield,Virginia,United States",PF24Y22
+Cust32,Henry MacAllister,3643076579,"New York City,New York,United States",YG26S12
+Cust33,Joel Eaton,4867138368,"Memphis,Tennessee,United States",MZ30L74
+Cust34,Ken Brennan,2516158797,"Houston,Texas,United States",KY36O90
+Cust35,Stewart Carmichael,2697510400,"Decatur,Alabama,United States",AU98Z77
+Cust36,Duane Noonan,7718199988,"San Francisco,California,United States",PG13R78
+Cust37,Julie Creighton,5153616377,"Durham,North Carolina,United States",ML54S89
+Cust38,Christopher Schild,5222863756,"Chicago,Illinois,United States",OS48F89
+Cust39,Paul Gonzalez,3344311586,"Rochester,Minnesota,United States",AI32Z22
+Cust40,Gary Mitchum,6699078423,"Houston,Texas,United States",JJ15F30
+Cust41,Jim Sink,4201657354,"Los Angeles,California,United States",JB75J45
+Cust42,Karl Braun,9120594961,"Minneapolis,Minnesota,United States",NS28G51
+Cust43,Roger Barcio,6379499367,"Portland,Oregon,United States",JD46W57
+Cust44,Parhena Norris,9770354328,"New York City,New York,United States",AM66M44
+Cust45,Katherine Ducich,8655015133,"San Francisco,California,United States",IN35B68
+Cust46,Elpida Rittenbach,6130347207,"Saint Paul,Minnesota,United States",KP41Z27
+Cust47,Rick Bensley,4630169411,"Chicago,Illinois,United States",CC32Q14
+Cust48,Gary Zandusky,6094525653,"Rochester,Minnesota,United States",LO25W10
+Cust49,Lena Cacioppo,7043405991,"Aurora,Colorado,United States",NA10Z70
+Cust50,Janet Martin,6214620371,"Charlotte,North Carolina,United States",FS76S52
+Cust51,Pete Armstrong,1412996086,"Orland Park,Illinois,United States",YH81G76
+Cust52,Cynthia Voltz,8770613498,"New York City,New York,United States",ZZ84O48
+Cust53,Clay Ludtke,7192923191,"Urbandale,Iowa,United States",KM55E98
+Cust54,Ryan Crowe,2043082814,"Columbus,Ohio,United States",MR74M46
+Cust55,Dave Kipp,5414787540,"Seattle,Washington,United States",UG34T10
+Cust56,Greg Guthrie,5971541088,"Bristol,Tennessee,United States",TW17Z48
+Cust57,Steven Cartwright,7642643376,"Wilmington,Delaware,United States",WZ32N55
+Cust58,Alan Dominguez,9659289062,"Houston,Texas,United States",WS42Q93
+Cust59,Philip Fox,5349656121,"Bloomington,Illinois,United States",TH36M22
+Cust60,Troy Staebel,9084880955,"Phoenix,Arizona,United States",WN24H70
+Cust61,Lindsay Shagiari,8506704812,"Los Angeles,California,United States",QC59V97
+Cust62,Dorothy Wardle,1937440523,"Columbus,Ohio,United States",DO99W31
+Cust63,Lena Creighton,4701169598,"Roseville,California,United States",VM41A13
+Cust64,Jonathan Doherty,3165698784,"Philadelphia,Pennsylvania,United States",WE50W32
+Cust65,Sally Hughsby,6668126961,"San Francisco,California,United States",HD10D57
+Cust66,Sandra Glassco,7316175558,"Independence,Missouri,United States",PH24J28
+Cust67,Helen Andreada,8897841837,"Pasadena,California,United States",XH15R59
+Cust68,Maureen Gastineau,8192624802,"Newark,Ohio,United States",CS86X33
+Cust69,Justin Ellison,5705582514,"Franklin,Wisconsin,United States",LR56V79
+Cust70,Tamara Willingham,6904408020,"Scottsdale,Arizona,United States",SR46R43
+Cust71,Stephanie Phelps,1620272495,"San Jose,California,United States",OW84S36
+Cust72,Neil Knudson,1963492396,"Seattle,Washington,United States",QQ38M90
+Cust73,Dave Brooks,9714735901,"Seattle,Washington,United States",OD89J20
+Cust74,Nora Paige,2854770071,"Edmond,Oklahoma,United States",DR97X43
+Cust75,Ted Trevino,7797089529,"Los Angeles,California,United States",EQ76W14
+Cust76,Eric Murdock,1992869437,"Philadelphia,Pennsylvania,United States",NG85C17
+Cust77,Ruben Dartt,6789733503,"Carlsbad,New Mexico,United States",TZ94P43
+Cust78,Max Jones,6122783078,"Seattle,Washington,United States",JO53D94
+Cust79,Becky Martin,7662508979,"San Antonio,Texas,United States",EA97B84
+Cust80,Chad Sievert,8146515312,"Los Angeles,California,United States",LC40T83
+Cust81,Jennifer Braxton,9768056447,"Chicago,Illinois,United States",VF29F73
+Cust82,Shirley Jackson,4132125546,"Houston,Texas,United States",OL37X33
+Cust83,Jim Kriz,9479561471,"New York City,New York,United States",VO29Y14
+Cust84,David Kendrick,7386693556,"Decatur,Illinois,United States",BM14G80
+Cust85,Robert Marley,2385143843,"Monroe,Louisiana,United States",KA50D86
+Cust86,Sally Knutson,1962363581,"Fairfield,Connecticut,United States",ZG42M71
+Cust87,Frank Merwin,6840428173,"Los Angeles,California,United States",CR62L86
+Cust88,Alice McCarthy,3185841512,"Grand Prairie,Texas,United States",AU98K73
+Cust89,Mark Packer,2182944368,"New York City,New York,United States",UX44F11
+Cust90,Mary Zewe,8464817236,"Redlands,California,United States",ZA90M88
+Cust91,Cassandra Brandow,5122213784,"Hamilton,Ohio,United States",SR89Q69
+Cust92,Valerie Mitchum,6632217209,"Westfield,New Jersey,United States",GU74Q57
+Cust93,Fred Hopkins,6478007233,"Philadelphia,Pennsylvania,United States",EI50H54
+Cust94,Maria Bertelson,6555005720,"Akron,Ohio,United States",LF34S42
+Cust95,Bruce Stewart,5151070658,"Denver,Colorado,United States",GS83B82
+Cust96,Logan Currie,6945995959,"Dallas,Texas,United States",DI64T57
+Cust97,Heather Kirkland,3729564849,"Franklin,Tennessee,United States",DV12W67
+Cust98,Laurel Elliston,8249488798,"Whittier,California,United States",PS80L31
+Cust99,Joseph Holt,7964179731,"Saginaw,Michigan,United States",XI57G36
+Cust100,Michael Stewart,8945700952,"Dallas,Texas,United States",BF52Z44
+Cust101,Victoria Wilson,1238569638,"Medina,Ohio,United States",MG21Y33
+Cust102,Jonathan Howell,7293957157,"Los Angeles,California,United States",VX49Z41
+Cust103,Joni Blumstein,9873288450,"Dublin,Ohio,United States",KH57O96
+Cust104,David Smith,5149084375,"Detroit,Michigan,United States",EN38B31
+Cust105,Valerie Dominguez,9470786222,"Columbia,Tennessee,United States",UN28Y90
+Cust106,Erin Ashbrook,4207829356,"Charlotte,North Carolina,United States",IA75O44
+Cust107,David Bremer,8298928804,"Santa Clara,California,United States",BW57I64
+Cust108,Ken Lonsdale,8175993206,"Chicago,Illinois,United States",MG53R80
+Cust109,Dianna Wilson,8678073031,"Lakeville,Minnesota,United States",RZ36C60
+Cust110,Logan Haushalter,5834360546,"San Francisco,California,United States",VG37A75
+Cust111,Kelly Collister,7328092748,"San Diego,California,United States",HI26R60
+Cust112,Delfina Latchford,8647228568,"New York City,New York,United States",UF83I36
+Cust113,Dan Reichenbach,4208956977,"Chicago,Illinois,United States",WP57N78
+Cust114,Craig Carreira,2734810836,"New York City,New York,United States",XK33E71
+Cust115,Dorris liebe,3865196389,"Pasadena,Texas,United States",OX25T83
+Cust116,Sean Braxton,8703176028,"Houston,Texas,United States",FW45K91
+Cust117,Roy Collins,9795664193,"Chicago,Illinois,United States",SL69T60
+Cust118,Alan Hwang,7771242129,"Brentwood,California,United States",DZ35S61
+Cust119,Claudia Bergmann,2621221922,"Chapel Hill,North Carolina,United States",YP19B90
+Cust120,Christine Abelman,7600948868,"Cincinnati,Ohio,United States",HN64S85
+Cust121,Kristen Hastings,7691647190,"San Francisco,California,United States",CF63P63
+Cust122,Barry Blumstein,9788160204,"Inglewood,California,United States",UY53N16
+Cust123,Andrew Gjertsen,4416988062,"Philadelphia,Pennsylvania,United States",LP90A71
+Cust124,Jas O'Carroll,1568187451,"Los Angeles,California,United States",HE95U77
+Cust125,Alan Haines,3586679155,"Tamarac,Florida,United States",WT76Y27
+Cust126,Nick Zandusky,3269050994,"Columbus,Ohio,United States",ZN90D41
+Cust127,Kelly Lampkin,9508852750,"Colorado Springs,Colorado,United States",NX83I56
+Cust128,Alan Schoenberger,7778234359,"New York City,New York,United States",RN58Q75
+Cust129,Corey Roper,5421237413,"Lakewood,New Jersey,United States",ZW77H66
+Cust130,Shahid Hopkins,4429217253,"Arlington,Virginia,United States",DU91I87
+Cust131,Ben Peterman,7526097189,"Arvada,Colorado,United States",XJ87A96
+Cust132,Thomas Seio,8314583839,"Hackensack,New Jersey,United States",TE13J65
+Cust133,Andy Gerbode,7037148066,"Saint Petersburg,Florida,United States",JU82B72
+Cust134,Sung Pak,7455249720,"Philadelphia,Pennsylvania,United States",BE60Y84
+Cust135,Nathan Mautz,5157281113,"New York City,New York,United States",VG20T20
+Cust136,Frank Atkinson,1517718610,"Long Beach,California,United States",VV16K36
+Cust137,Grace Kelly,4079306137,"Hesperia,California,United States",TL35U28
+Cust138,Don Jones,2396642546,"Murfreesboro,Tennessee,United States",YN60K27
+Cust139,Patrick O'Brill,1861835783,"Philadelphia,Pennsylvania,United States",IG19E59
+Cust140,John Lucas,3446223798,"Philadelphia,Pennsylvania,United States",PC44T94
+Cust141,Doug Bickford,5656135118,"Los Angeles,California,United States",MF35H35
+Cust142,Alyssa Crouse,7815474712,"San Francisco,California,United States",DV50V81
+Cust143,Clay Cheatham,8638558071,"San Francisco,California,United States",PL30C67
+Cust144,Tamara Dahlen,9624717343,"Lowell,Massachusetts,United States",VZ19Y55
+Cust145,Adam Bellavance,5249835655,"New York City,New York,United States",ZC75M93
+Cust146,Jeremy Lonsdale,1633272985,"New York City,New York,United States",YE25G29
+Cust147,Victoria Brennan,3485463054,"Columbus,Georgia,United States",HS56V80
+Cust148,Katrina Willman,9749063236,"New York City,New York,United States",YG37T89
+Cust149,Julia Dunbar,1464704293,"San Francisco,California,United States",FF92L41
+Cust150,Michael Kennedy,7970598214,"Manchester,Connecticut,United States",IM96D59
+Cust151,Guy Thornton,7897405035,"Harlingen,Texas,United States",RJ22E63
+Cust152,Arthur Gainer,5160784314,"Tucson,Arizona,United States",GQ51U75
+Cust153,Muhammed MacIntyre,6450794949,"Quincy,Illinois,United States",QA80A29
+Cust154,Allen Rosenblatt,3066288455,"Franklin,Massachusetts,United States",PN23W11
+Cust155,Russell Applegate,5891204132,"Houston,Texas,United States",WG93C33
+Cust156,Alejandro Savely,1711607230,"San Francisco,California,United States",CR72P88
+Cust157,Laura Armstrong,6997094185,"Taylor,Michigan,United States",OK35X27
+Cust158,Denny Ordway,2852134482,"Pembroke Pines,Florida,United States",UW55V35
+Cust159,Dean Katz,8625692560,"Philadelphia,Pennsylvania,United States",MJ44I39
+Cust160,Nathan Gelder,3213350972,"Cincinnati,Ohio,United States",VK72Y62
+Cust161,Mike Vittorini,5085177007,"New York City,New York,United States",CJ86A29
+Cust162,Jack Garza,5825799072,"Des Moines,Washington,United States",VQ49Q61
+Cust163,Bart Pistole,2394733517,"Peoria,Illinois,United States",OM51N77
+Cust164,Victor Preis,5128565735,"Las Vegas,Nevada,United States",BZ14C68
+Cust165,Saphhira Shifley,1724903989,"Warwick,Rhode Island,United States",PY51M42
+Cust166,Anna Gayman,2902246154,"Houston,Texas,United States",SC66C12
+Cust167,Luke Foster,3928446474,"Miami,Florida,United States",YA13B16
+Cust168,Roy Französisch,2033975728,"New York City,New York,United States",VH94E78
+Cust169,Keith Herrera,5388576571,"San Francisco,California,United States",FW93V52
+Cust170,Kimberly Carter,5418832284,"Seattle,Washington,United States",RN99Z45
+Cust171,Caroline Jumper,3486975215,"Huntington Beach,California,United States",GE81V70
+Cust172,Philip Brown,9295835532,"Los Angeles,California,United States",NU25U17
+Cust173,Michael Paige,4512096332,"Lawrence,Massachusetts,United States",EW20K29
+Cust174,Natalie Fritzler,3901626164,"Jackson,Mississippi,United States",OG98B15
+Cust175,Shirley Daniels,5087625099,"New Rochelle,New York,United States",GZ79W61
+Cust176,Ken Heidel,9366246116,"San Antonio,Texas,United States",GY61Z46
+Cust177,Ross Baird,3708769337,"Gastonia,North Carolina,United States",YY54V56
+Cust178,Mike Kennedy,4625141547,"Jacksonville,Florida,United States",NR58U52
+Cust179,Philisse Overcash,4945215036,"Chicago,Illinois,United States",BP67R84
+Cust180,Brenda Bowman,3207315058,"Houston,Texas,United States",GD48A40
+Cust181,Troy Blackwell,5196892891,"Columbus,Indiana,United States",PW31S49
+Cust182,Raymond Buch,1319393297,"Auburn,New York,United States",NV17J46
+Cust183,Ed Braxton,7556014108,"Akron,Ohio,United States",BS79I60
+Cust184,Sanjit Chand,5085018974,"Concord,California,United States",YF24Q97
+Cust185,Tanja Norvell,3524218108,"Phoenix,Arizona,United States",DJ49V29
+Cust186,Joni Sundaresam,8306741312,"Park Ridge,Illinois,United States",VV44U52
+Cust187,Maya Herman,6876480639,"Lindenhurst,New York,United States",TQ49G86
+Cust188,Jeremy Pistek,3698165839,"San Francisco,California,United States",EU22L14
+Cust189,Jeremy Ellison,9777204394,"Troy,New York,United States",UT12F26
+Cust190,John Grady,3260594567,"New York City,New York,United States",RC82D86
+Cust191,Xylona Preis,1626312484,"San Diego,California,United States",BT52R12
+Cust192,Erin Mull,3729704654,"New York City,New York,United States",YG97M85
+Cust193,Michelle Tran,7292869236,"Los Angeles,California,United States",QV54T88
+Cust194,Sue Ann Reed,4170364024,"Chicago,Illinois,United States",IG23G50
+Cust195,Carl Weiss,2988442906,"Huntsville,Texas,United States",OS51M44
+Cust196,Astrea Jones,8472978245,"Rochester,New York,United States",EI12B60
+Cust197,Sonia Sunley,9498027693,"Seattle,Washington,United States",AM37N44
+Cust198,Rose O'Brian,4636833110,"Memphis,Tennessee,United States",QJ88Q41
+Cust199,Maribeth Dona,3184267395,"Fayetteville,Arkansas,United States",ZZ66H71
+Cust200,Maribeth Yedwab,3409077849,"Parker,Colorado,United States",VN49W83
+Cust201,Christopher Martinez,4310239438,"Atlanta,Georgia,United States",PO50K80
+Cust202,Lynn Smith,6610831899,"Gladstone,Missouri,United States",YW21F39
+Cust203,Bradley Nguyen,4109080320,"Los Angeles,California,United States",GJ29G46
+Cust204,Dean Braden,6080750405,"Houston,Texas,United States",JJ77F24
+Cust205,Matt Connell,5509429471,"Detroit,Michigan,United States",KN21L89
+Cust206,Brian Dahlen,8891676550,"Lawrence,Massachusetts,United States",VN62J87
+Cust207,Patricia Hirasaki,9643518044,"Lakeland,Florida,United States",RS66F70
+Cust208,Mike Gockenbach,8348814267,"Philadelphia,Pennsylvania,United States",TH24Y13
+Cust209,Karen Bern,3098345302,"Los Angeles,California,United States",BD73D26
+Cust210,Jasper Cacioppo,6700148234,"Los Angeles,California,United States",QM63O58
+Cust211,Rob Lucas,3154066019,"Montgomery,Alabama,United States",NF15J43
+Cust212,Allen Armold,3088591655,"Mesa,Arizona,United States",PW98K71
+Cust213,Emily Phan,4037542650,"Chicago,Illinois,United States",LU77E77
+Cust214,Darren Koutras,6496618175,"Henderson,Kentucky,United States",AP15E11
+Cust215,Bradley Drucker,4568159131,"Green Bay,Wisconsin,United States",YD88G58
+Cust216,Liz MacKendrick,6303413576,"Springfield,Ohio,United States",WE44A23
+Cust217,Adrian Shami,8919689597,"New York City,New York,United States",YG32Q40
+Cust218,Bill Donatelli,5864039227,"San Francisco,California,United States",HB57J15
+Cust219,Greg Tran,8543019236,"Houston,Texas,United States",DS12H76
+Cust220,Ashley Jarboe,7895573557,"Wilmington,North Carolina,United States",NU34X23
+Cust221,Olvera Toch,4694548286,"Los Angeles,California,United States",ET52F54
+Cust222,Liz Pelletier,8584023848,"San Francisco,California,United States",FJ23N26
+Cust223,Cynthia Arntzen,2588334041,"Tampa,Florida,United States",NL75N86
+Cust224,Jeremy Farry,1271211461,"Seattle,Washington,United States",VN35P92
+Cust225,Frank Preis,5107147175,"Los Angeles,California,United States",MX14Z52
+Cust226,Ellis Ballard,7149226653,"Seattle,Washington,United States",RZ60L37
+Cust227,Jennifer Ferguson,2127087439,"New York City,New York,United States",MN46U78
+Cust228,Sarah Foster,6477364000,"Marysville,Washington,United States",MT17W91
+Cust229,Trudy Glocke,2274305044,"Long Beach,California,United States",VR90H70
+Cust230,Carlos Soltero,1983870114,"Chicago,Illinois,United States",YC91Y71
+Cust231,Charles Crestani,2787665622,"Los Angeles,California,United States",FP92I34
+Cust232,Dianna Vittorini,5587945298,"Denver,Colorado,United States",KV44M60
+Cust233,Bruce Degenhardt,7307497782,"Richmond,Kentucky,United States",TE73X22
+Cust234,Zuschuss Carroll,2970118064,"Salem,Oregon,United States",ZF99Y18
+Cust235,Melanie Seite,3872529997,"Laredo,Texas,United States",BM55A26
+Cust236,Lena Radford,1516262267,"San Diego,California,United States",LV84P23
+Cust237,Theone Pippenger,1568413015,"Philadelphia,Pennsylvania,United States",WR97B36
+Cust238,Chloris Kastensmidt,1474640483,"Philadelphia,Pennsylvania,United States",PW61R32
+Cust239,Alan Shonely,7112106865,"Tampa,Florida,United States",DU65G34
+Cust240,Andrew Roberts,5813490788,"Philadelphia,Pennsylvania,United States",IP66N63
+Cust241,Nona Balk,8797562207,"Dallas,Texas,United States",AO23M53
+Cust242,Giulietta Dortch,8809938156,"Philadelphia,Pennsylvania,United States",TG16K60
+Cust243,Clytie Kelty,4297959810,"Grove City,Ohio,United States",PX18U26
+Cust244,Nat Gilpin,6344844973,"New York City,New York,United States",TG79X39
+Cust245,Christina Anderson,3001156071,"Chicago,Illinois,United States",BA32Z81
+Cust246,Sylvia Foulston,9430050768,"Dearborn,Michigan,United States",VC61Z49
+Cust247,Meg O'Connel,8316627650,"New York City,New York,United States",WO11N79
+Cust248,Annie Thurman,9204825691,"Seattle,Washington,United States",MK85J84
+Cust249,Fred McMath,5067700986,"Aurora,Colorado,United States",FX79V25
+Cust250,Denny Joy,7971445607,"Warner Robins,Georgia,United States",HO56K56
+Cust251,Max Engle,8667850254,"Aurora,Colorado,United States",JQ14E12
+Cust252,Justin Deggeller,3740856512,"Minneapolis,Minnesota,United States",PU15M42
+Cust253,John Lee,7002175360,"Mission Viejo,California,United States",WU57T37
+Cust254,Sean Christensen,3543435887,"Rochester Hills,Michigan,United States",YK45C19
+Cust255,Chuck Clark,6971824559,"Columbus,Indiana,United States",AC10E16
+Cust256,Anthony Rawles,3349870755,"Vancouver,Washington,United States",YT50T83
+Cust257,Steven Roelle,9116151946,"New York City,New York,United States",PI64W92
+Cust258,Craig Reiter,7009588512,"Columbus,Ohio,United States",BJ60Y45
+Cust259,Eugene Hildebrand,9522621158,"Aurora,Illinois,United States",AV23B19
+Cust260,Sibella Parks,6334495300,"New York City,New York,United States",SE30E41
+Cust261,Tiffany House,7014869804,"Dallas,Texas,United States",LM75S36
+Cust262,Resi Pölking,5554153169,"Cleveland,Ohio,United States",BM92S28
+Cust263,Rob Beeghly,5435762080,"Columbus,Indiana,United States",QZ11N19
+Cust264,Carol Darley,1634500844,"Tyler,Texas,United States",AK17C80
+Cust265,Doug Jacobs,3494233027,"New York City,New York,United States",VC77L12
+Cust266,Grant Thornton,3618246956,"Burlington,North Carolina,United States",JY42O15
+Cust267,Michael Chen,2572761002,"Jackson,Mississippi,United States",NQ99H89
+Cust268,Ralph Arnett,1612130629,"New York City,New York,United States",YX33I55
+Cust269,Naresj Patel,3641520294,"Waynesboro,Virginia,United States",YN84B45
+Cust270,Alan Barnes,8755407886,"Los Angeles,California,United States",ZI22O30
+Cust271,Jesus Ocampo,5429929309,"Chester,Pennsylvania,United States",PM69F73
+Cust272,Jay Kimmel,4393309371,"Long Beach,California,United States",FT27A29
+Cust273,Brad Norvell,2865930509,"Cary,North Carolina,United States",CY35E29
+Cust274,David Philippe,8585581299,"New York City,New York,United States",CM99K99
+Cust275,Tracy Hopkins,4021444684,"New York City,New York,United States",JG16J30
+Cust276,Arthur Prichep,7447339713,"Palm Coast,Florida,United States",ZQ21G79
+Cust277,Roland Schwarz,8593060330,"Mount Vernon,New York,United States",YB49I49
+Cust278,Seth Vernon,2979433390,"Dover,Delaware,United States",ED24Q45
+Cust279,Christine Kargatis,3231932268,"Orem,Utah,United States",VN79A37
+Cust280,Ross DeVincentis,7959268092,"Los Angeles,California,United States",GT85U93
+Cust281,Mathew Reese,2814602952,"Philadelphia,Pennsylvania,United States",PS76C35
+Cust282,Steve Chapman,8765015879,"Hialeah,Florida,United States",DE21W54
+Cust283,Jay Fein,9734328058,"Austin,Texas,United States",ZX34T37
+Cust284,Emily Grady,7881750795,"Oceanside,New York,United States",RZ61Y71
+Cust285,Darrin Sayre,2712109153,"Seattle,Washington,United States",UU70Y10
+Cust286,Phillina Ober,6181075601,"Naperville,Illinois,United States",EP22A68
+Cust287,Sung Shariari,6097030426,"Dallas,Texas,United States",AV83N90
+Cust288,Peter Bühler,7082756209,"Evanston,Illinois,United States",AX95E48
+Cust289,Roland Fjeld,9485049245,"Trenton,Michigan,United States",SA57Q16
+Cust290,Yoseph Carroll,7176608999,"San Francisco,California,United States",JW92I19
+Cust291,Debra Catini,8356365546,"Cottage Grove,Minnesota,United States",LJ39T33
+Cust292,Christine Phan,8859133561,"New York City,New York,United States",JG46Q91
+Cust293,Barry Französisch,5096376607,"Green Bay,Wisconsin,United States",CY37K38
+Cust294,Lisa Hazard,7107447142,"Columbus,Ohio,United States",AR91W39
+Cust295,Chris Selesnick,1611491327,"Bossier City,Louisiana,United States",WX24W80
+Cust296,Anthony Johnson,1494066000,"Saint Petersburg,Florida,United States",LU28K34
+Cust297,Benjamin Venier,9130600566,"Des Moines,Iowa,United States",MY67J92
+Cust298,Dan Lawera,7888356959,"Cincinnati,Ohio,United States",VW17P84
+Cust299,Bryan Mills,3819726517,"Columbus,Ohio,United States",CK61L49
+Cust300,Liz Thompson,4264732343,"Lancaster,California,United States",TQ58K86
+Cust301,Joe Kamberova,1613553085,"Asheville,North Carolina,United States",VI75S93
+Cust302,Erica Smith,2775017512,"San Francisco,California,United States",NP19R37
+Cust303,Rick Hansen,8353061651,"Rochester,Minnesota,United States",TW85A58
+Cust304,Carlos Daly,1686027375,"Lake Elsinore,California,United States",WB60E94
+Cust305,Helen Wasserman,6489830831,"San Diego,California,United States",QP33D86
+Cust306,Mike Caudle,4851845086,"Monroe,Louisiana,United States",WF65E39
+Cust307,Gary McGarr,2523128147,"San Francisco,California,United States",MN88Z49
+Cust308,Pauline Johnson,7107114438,"Santa Ana,California,United States",HC50W86
+Cust309,Bart Watters,5181448781,"Milwaukee,Wisconsin,United States",AO57L80
+Cust310,Toby Ritter,6863803208,"Belleville,New Jersey,United States",HZ43M46
+Cust311,Patrick Gardner,6819841013,"San Francisco,California,United States",BQ21X98
+Cust312,James Lanier,8794063445,"Columbia,Tennessee,United States",NB53V68
+Cust313,Brian Moss,8569805626,"New York City,New York,United States",GF40D46
+Cust314,Eudokia Martin,8476815933,"Los Angeles,California,United States",MG17F50
+Cust315,Art Foster,6231038858,"Louisville,Kentucky,United States",CO19U36
+Cust316,Guy Armstrong,1818218249,"Lorain,Ohio,United States",JG64E82
+Cust317,Cyma Kinney,9887530209,"Linden,New Jersey,United States",RV25B35
+Cust318,Dave Poirier,4554564594,"Salinas,California,United States",NO67Q80
+Cust319,Berenike Kampe,6784329972,"New York City,New York,United States",EP71H39
+Cust320,Sanjit Jacobs,5239576104,"New Brunswick,New Jersey,United States",OS33H19
+Cust321,Chuck Magee,9877265088,"San Francisco,California,United States",YD97J42
+Cust322,Anthony Jacobs,8743827656,"Springfield,Virginia,United States",XO98G24
+Cust323,Linda Southworth,8163616733,"Philadelphia,Pennsylvania,United States",XJ50Q40
+Cust324,Guy Phonely,8300091211,"Lancaster,Pennsylvania,United States",UP80D20
+Cust325,Paul Knutson,5804628877,"Philadelphia,Pennsylvania,United States",UM43O12
+Cust326,Sally Matthias,8260967856,"New York City,New York,United States",MJ46W91
+Cust327,Anthony Garverick,6437625988,"Philadelphia,Pennsylvania,United States",RP11M40
+Cust328,Peter McVee,2507340349,"Detroit,Michigan,United States",CB20F44
+Cust329,Lauren Leatherbury,9712582186,"Rochester,New York,United States",MZ33I97
+Cust330,Jill Stevenson,4567403887,"Los Angeles,California,United States",WM87X44
+Cust331,Ed Ludwig,5361362332,"Columbia,Maryland,United States",XT61N60
+Cust332,Pamela Coakley,5376333842,"San Francisco,California,United States",BL18A85
+Cust333,Hunter Lopez,5504282709,"Houston,Texas,United States",MP10U73
+Cust334,Maribeth Schnelling,6051998604,"Detroit,Michigan,United States",UY97R27
+Cust335,George Bell,9138238725,"Auburn,New York,United States",WD41Q90
+Cust336,Justin Ritter,2350913518,"Springfield,Ohio,United States",ZZ11D77
+Cust337,Bill Eplett,1611091510,"Jackson,Michigan,United States",BX61M14
+Cust338,Sample Company A,8161302337,"Norwich,Connecticut,United States",TZ81G49
+Cust339,Rob Williams,3505156346,"Dallas,Texas,United States",SL46G28
+Cust340,Sanjit Engle,3099613102,"New York City,New York,United States",TL58Z77
+Cust341,Adam Hart,2002493161,"New York City,New York,United States",EK30C14
+Cust342,Jessica Myrick,2166738246,"Philadelphia,Pennsylvania,United States",VW33Z47
+Cust343,Joel Jenkins,7793092072,"Springfield,Virginia,United States",JL23H32
+Cust344,Ralph Kennedy,3533124951,"Philadelphia,Pennsylvania,United States",BM34F65
+Cust345,Catherine Glotzbach,1814281703,"Philadelphia,Pennsylvania,United States",BE49O77
+Cust346,Rachel Payne,6712466495,"Riverside,California,United States",IO64G81
+Cust347,Karen Carlisle,8869479319,"San Francisco,California,United States",SY30O53
+Cust348,Katherine Hughes,9878686205,"Philadelphia,Pennsylvania,United States",TH62L89
+Cust349,Greg Hansen,2391968029,"Round Rock,Texas,United States",XM99E97
+Cust350,Scott Williamson,2292277456,"Jackson,Mississippi,United States",SC21I55
+Cust351,Joseph Airdo,3083529756,"Phoenix,Arizona,United States",TS75H17
+Cust352,Daniel Lacy,5701040801,"Oceanside,California,United States",WK82J44
+Cust353,Lindsay Williams,5315699173,"San Francisco,California,United States",XE70O91
+Cust354,Thomas Brumley,7597754534,"Fayetteville,Arkansas,United States",KG96A46
+Cust355,Bryan Spruell,2651647646,"New York City,New York,United States",ME89P35
+Cust356,Robert Waldorf,6687535506,"Wilmington,North Carolina,United States",NH92C13
+Cust357,Tracy Zic,9740633225,"Louisville,Colorado,United States",OS43J74
+Cust358,Ann Steele,1269745820,"Pasadena,Texas,United States",UU57G31
+Cust359,Toby Swindell,4721519866,"Houston,Texas,United States",VM92F64
+Cust360,Sara Luxemburg,7106139395,"Jacksonville,Florida,United States",CS86A70
+Cust361,Mitch Willingham,6744867385,"Virginia Beach,Virginia,United States",CQ27D21
+Cust362,Rob Dowd,1328486146,"Henderson,Kentucky,United States",SO42D88
+Cust363,Ryan Akin,6104774993,"Murrieta,California,United States",DC91W87
+Cust364,Meg Tillman,2189032040,"Scottsdale,Arizona,United States",YQ16S24
+Cust365,Vivek Gonzalez,8823507058,"San Diego,California,United States",UX82S57
+Cust366,John Stevenson,5370244386,"Seattle,Washington,United States",TV15M88
+Cust367,Kalyca Meade,5380003521,"New York City,New York,United States",WX74Y22
+Cust368,Hallie Redmond,5373443696,"Los Angeles,California,United States",GW53O16
+Cust369,Deanra Eno,7782120992,"Springfield,Ohio,United States",LO27J39
+Cust370,Allen Goldenen,6465171783,"Cincinnati,Ohio,United States",OV80I25
+Cust371,Jennifer Jackson,4129939757,"Los Angeles,California,United States",CF94P68
+Cust372,Jennifer Halladay,5851029580,"Burlington,North Carolina,United States",OT24T29
+Cust373,Robert Dilbeck,4769920090,"Saint Peters,Missouri,United States",ZK71Q57
+Cust374,Mary O'Rourke,2426498981,"New York City,New York,United States",RN82J92
+Cust375,Noel Staavos,4651474552,"Chicago,Illinois,United States",LB20R63
+Cust376,Deirdre Greer,7082843199,"Philadelphia,Pennsylvania,United States",BL97T25
+Cust377,Nicole Fjeld,2277826050,"New York City,New York,United States",PU40P59
+Cust378,Matthew Grinstein,7506921542,"Philadelphia,Pennsylvania,United States",TP46K79
+Cust379,Theresa Swint,7232793049,"Toledo,Ohio,United States",DC78D98
+Cust380,Brian DeCherney,4992069248,"San Francisco,California,United States",ZZ62M48
+Cust381,Charles McCrossin,7755183800,"Brownsville,Texas,United States",CC95X72
+Cust382,Skye Norling,3812587225,"Los Angeles,California,United States",PL13L26
+Cust383,Erica Hernandez,4647242927,"Denver,Colorado,United States",PM72V53
+Cust384,Frank Olsen,1860742138,"New York City,New York,United States",XU62B44
+Cust385,Maurice Satty,8756806460,"Mesa,Arizona,United States",PN39G82
+Cust386,Chad Cunningham,9787216390,"Columbus,Indiana,United States",IN57D22
+Cust387,Don Weiss,1417953184,"Seattle,Washington,United States",TK25X79
+Cust388,Bill Tyler,5605463251,"Detroit,Michigan,United States",IJ86Z73
+Cust389,Craig Yedwab,7597054168,"Oakland,California,United States",RT45L44
+Cust390,Brad Thomas,4101590818,"Clinton,Maryland,United States",WF98T38
+Cust391,Penelope Sewall,6548090398,"Charlotte,North Carolina,United States",ZU44R83
+Cust392,Paul Van Hugh,8483469225,"San Francisco,California,United States",EX60J54
+Cust393,Neoma Murray,7752099158,"Riverside,California,United States",HN62H59
+Cust394,Dionis Lloyd,4198693864,"San Francisco,California,United States",WJ20U18
+Cust395,Christine Sundaresam,5960842866,"Roswell,Georgia,United States",WM70N45
+Cust396,Frank Hawley,8032146931,"La Porte,Indiana,United States",CW80V36
+Cust397,Nat Carroll,7709763414,"Lansing,Michigan,United States",SG55D92
+Cust398,Alex Avila,7939954263,"Minneapolis,Minnesota,United States",CV37A38
+Cust399,Larry Tron,1380426489,"Escondido,California,United States",WF58M15
+Cust400,Anne Pryor,3842917479,"New York City,New York,United States",DZ60C59
+Cust401,Paul MacIntyre,3960000995,"Jackson,Michigan,United States",OQ13F97
+Cust402,Alyssa Tate,7531411774,"Los Angeles,California,United States",CH48B81
+Cust403,Cathy Armstrong,1837382018,"Houston,Texas,United States",YW89E69
+Cust404,Harold Ryan,1741545113,"Seattle,Washington,United States",CW53O82
+Cust405,Bradley Talbott,4079646655,"Los Angeles,California,United States",LY80T51
+Cust406,Larry Hughes,2818921801,"Charlotte,North Carolina,United States",EC72W89
+Cust407,Steven Ward,4552019250,"New York City,New York,United States",HL48H62
+Cust408,Stefania Perrino,1275289502,"Philadelphia,Pennsylvania,United States",VG93S30
+Cust409,Ben Ferrer,6721188638,"Los Angeles,California,United States",VA94H84
+Cust410,Kean Thornton,5565315873,"Buffalo,New York,United States",LZ51E54
+Cust411,Brooke Gillingham,9134808554,"Cincinnati,Ohio,United States",WT56B65
+Cust412,Greg Matthias,8164639326,"Seattle,Washington,United States",UO48W89
+Cust413,Eva Jacobs,1658994107,"Gulfport,Mississippi,United States",GV54A61
+Cust414,Nora Preis,6784063520,"Fresno,California,United States",YH54C77
+Cust415,Mick Hernandez,6460470317,"Chester,Pennsylvania,United States",WA99H41
+Cust416,Jocasta Rupert,5069966208,"Jacksonville,Florida,United States",CL80J61
+Cust417,Suzanne McNair,5790189183,"Greenville,North Carolina,United States",OY42K11
+Cust418,Chris Cortes,6395409183,"La Porte,Indiana,United States",HS25B46
+Cust419,Phillip Flathmann,7172809960,"San Francisco,California,United States",SI47X10
+Cust420,Dan Campbell,4731844950,"Florence,Alabama,United States",AD73V85
+Cust421,Bryan Davis,6744209164,"Houston,Texas,United States",KY32A14
+Cust422,Gene McClure,9968950762,"Providence,Rhode Island,United States",XW55O98
+Cust423,Todd Boyes,4260787761,"New York City,New York,United States",XI15W34
+Cust424,Justin Hirsh,3374397678,"Pueblo,Colorado,United States",RS35H42
+Cust425,Erica Bern,6984108845,"Fairfield,California,United States",LB58B73
+Cust426,Quincy Jones,7976259485,"Saint Paul,Minnesota,United States",VO12F72
+Cust427,Tracy Collins,8456714973,"Arlington,Virginia,United States",RQ54Q53
+Cust428,Chuck Sachs,3341429145,"Columbus,Georgia,United States",HQ28O89
+Cust429,Henry Goldwyn,8863698669,"Los Angeles,California,United States",LH74C49
+Cust430,Laurel Workman,2824048522,"Deltona,Florida,United States",QV49F80
+Cust431,Matt Collins,9335441499,"Cincinnati,Ohio,United States",EO76B49
+Cust432,Liz Preis,8926724661,"Murray,Kentucky,United States",NT66F93
+Cust433,Evan Bailliet,9513249478,"Wilmington,North Carolina,United States",EW90X95
+Cust434,George Zrebassa,9302778652,"Lawrence,Massachusetts,United States",LR44T34
+Cust435,Cathy Prescott,6124009647,"Norwich,Connecticut,United States",WQ93Z83
+Cust436,Frank Gastineau,7934736328,"San Francisco,California,United States",BM90J61
+Cust437,Lisa DeCherney,6737398204,"San Francisco,California,United States",XT67F34
+Cust438,Alejandro Ballentine,6016968383,"Lorain,Ohio,United States",CL19G99
+Cust439,Michael Nguyen,6449368884,"Dallas,Texas,United States",AQ71J48
+Cust440,Jim Radford,4055421227,"Middletown,Connecticut,United States",LO75G12
+Cust441,Jamie Frazer,2467420614,"Los Angeles,California,United States",HS25M34
+Cust442,Chad McGuire,4811779695,"New York City,New York,United States",BB26E90
+Cust443,Aaron Smayling,7590873061,"Jacksonville,North Carolina,United States",UU43W46
+Cust444,Beth Paige,4640943637,"Evanston,Illinois,United States",TL16R24
+Cust445,Natalie DeCherney,6834058109,"Louisville,Kentucky,United States",ZL95R51
+Cust446,Larry Blacks,2513687032,"Fort Worth,Texas,United States",EL15K46
+Cust447,Kean Takahito,6303338972,"Los Angeles,California,United States",AV63H77
+Cust448,Harry Marie,3602912708,"Philadelphia,Pennsylvania,United States",TI16L63
+Cust449,Ann Blume,9242736267,"Tucson,Arizona,United States",OA68F66
+Cust450,Sam Zeldin,9010898875,"Pico Rivera,California,United States",AK70G23
+Cust451,Michael Granlund,7195294199,"Clinton,Maryland,United States",BA58D25
+Cust452,Julie Kriz,8893481338,"Aurora,Illinois,United States",GX23S11
+Cust453,Paul Prost,5166047968,"Smyrna,Georgia,United States",AZ56T85
+Cust454,Yana Sorensen,9386809705,"Burlington,North Carolina,United States",ZK16M47
+Cust455,Katherine Murray,2262028589,"Salem,Virginia,United States",AC42K27
+Cust456,Adrian Barton,8654429943,"Phoenix,Arizona,United States",CO59L20
+Cust457,Helen Abelman,7246106538,"New York City,New York,United States",NW99Q63
+Cust458,Beth Thompson,4212480762,"Costa Mesa,California,United States",ME30M21
+Cust459,Stuart Van,2406321181,"Houston,Texas,United States",YZ69R81
+Cust460,Rick Wilson,4981359141,"Mesa,Arizona,United States",OI39K96
+Cust461,Damala Kotsonis,6940294232,"Salinas,California,United States",WN33B91
+Cust462,Shui Tom,1807620921,"Parma,Ohio,United States",UG67N37
+Cust463,Michael Moore,5464328467,"San Francisco,California,United States",UB82S60
+Cust464,Pauline Webber,7474267516,"Richmond,Kentucky,United States",TM97P31
+Cust465,Shaun Chance,2995592492,"Aurora,Colorado,United States",SH17U72
+Cust466,Thais Sissman,3949210215,"Phoenix,Arizona,United States",KK68Y31
+Cust467,Mark Cousins,8298263769,"Mobile,Alabama,United States",QA39M52
+Cust468,Maria Etezadi,8274083109,"Columbus,Georgia,United States",FA12Q56
+Cust469,Nicole Hansen,8821209360,"Irving,Texas,United States",AI88M68
+Cust470,Mick Brown,5591043864,"Vineland,New Jersey,United States",BF34V64
+Cust471,Keith Dawkins,7049504976,"New York City,New York,United States",YN79R30
+Cust472,Katherine Nockton,2097782029,"Los Angeles,California,United States",CR74Y99
+Cust473,Nora Pelletier,6591927785,"Niagara Falls,New York,United States",MK58J51
+Cust474,Cindy Stewart,5469714552,"Thomasville,North Carolina,United States",OW42R87
+Cust475,Maxwell Schwartz,3209264094,"New York City,New York,United States",UF52R54
+Cust476,Corinna Mitchell,3850836068,"Los Angeles,California,United States",EC41A87
+Cust477,Corey-Lock,4335188589,"Philadelphia,Pennsylvania,United States",GW50H14
+Cust478,Todd Sumrall,8659778279,"New York City,New York,United States",EA88M33
+Cust479,Jane Waco,4541979046,"Vancouver,Washington,United States",RJ99S52
+Cust480,John Dryer,2295912730,"Coppell,Texas,United States",PU67L52
+Cust481,Pauline Chand,2415041498,"Los Angeles,California,United States",KY89Q57
+Cust482,Andy Reiter,5300545198,"New York City,New York,United States",YQ94N82
+Cust483,Arianne Irving,5371777491,"Philadelphia,Pennsylvania,United States",OJ81Z72
+Cust484,Tom Boeckenhauer,7610829538,"Seattle,Washington,United States",PN52X69
+Cust485,Paul Lucas,6699397160,"Chicago,Illinois,United States",PM55T91
+Cust486,Gary Hwang,3627301737,"Tucson,Arizona,United States",ZE94J83
+Cust487,Mike Pelletier,5552298361,"Laguna Niguel,California,United States",XR85V94
+Cust488,Jim Mitchum,1639316131,"Bridgeton,New Jersey,United States",DM13X30
+Cust489,Carl Ludwig,2600848563,"Everett,Massachusetts,United States",DR91T78
+Cust490,Deborah Brumfield,7220017364,"San Diego,California,United States",YC87B46
+Cust491,Ivan Gibson,5273202406,"San Diego,California,United States",BU49B41
+Cust492,Bobby Odegard,9709458660,"Richmond,Kentucky,United States",IN94L97
+Cust493,Aimee Bixby,4015725202,"Long Beach,New York,United States",DY11C66
+Cust494,Julia West,2475534399,"Philadelphia,Pennsylvania,United States",JG16U46
+Cust495,Edward Becker,9233486240,"Seattle,Washington,United States",OK74M61
+Cust496,Sheri Gordon,6871421781,"New York City,New York,United States",TD58K52
+Cust497,Charlotte Melton,1484222121,"Philadelphia,Pennsylvania,United States",WU48I73
+Cust498,Anthony Witt,9949691713,"Allen,Texas,United States",ZM28X85
+Cust499,Mick Crebagga,7886058448,"El Paso,Texas,United States",HL85T88
+Cust500,Tonja Turnell,1881646122,"Aurora,Illinois,United States",HX54Z12
+Cust501,Vivek Grady,5528600947,"Virginia Beach,Virginia,United States",NU81K89
+Cust502,Muhammed Yedwab,9897712040,"Grapevine,Texas,United States",XK92L54
+Cust503,Rick Duston,9300144773,"Olympia,Washington,United States",YU35B27
+Cust504,Dennis Pardue,6681387874,"Peoria,Illinois,United States",SI21R54
+Cust505,Marina Lichtenstein,4064269631,"Los Angeles,California,United States",YS61H17
+Cust506,Jenna Caffey,5150093578,"Kent,Washington,United States",TF27M25
+Cust507,James Galang,5230820323,"Los Angeles,California,United States",IU98O17
+Cust508,Marc Crier,5966183837,"Lafayette,Louisiana,United States",UC45L59
+Cust509,Natalie Webber,8467314259,"Tigard,Oregon,United States",EP17Z15
+Cust510,Toby Braunhardt,2560581234,"Washington,District of Columbia,United States",WB88P35
+Cust511,Bill Stewart,2413665772,"Skokie,Illinois,United States",JL92Y76
+Cust512,Hilary Holden,5444056860,"San Francisco,California,United States",HV69L42
+Cust513,Christina DeMoss,7698555420,"Seattle,Washington,United States",VQ70I76
+Cust514,Thea Hendricks,3228243787,"Los Angeles,California,United States",LK31G94
+Cust515,Michelle Moray,8736443969,"Seattle,Washington,United States",QR33M29
+Cust516,Neola Schneider,1812566257,"Dallas,Texas,United States",TJ72C41
+Cust517,Robert Barroso,3096313759,"North Las Vegas,Nevada,United States",MZ66M89
+Cust518,Shaun Weien,8735353169,"Suffolk,Virginia,United States",PF13G26
+Cust519,Eric Barreto,1509920818,"San Francisco,California,United States",XX59G36
+Cust520,Pamela Stobb,4974855826,"Los Angeles,California,United States",XV96G81
+Cust521,Herbert Flentye,6991323567,"Indianapolis,Indiana,United States",RK24L77
+Cust522,Henia Zydlo,4078596121,"Columbus,Ohio,United States",JP13X90
+Cust523,Cynthia Delaney,5694811486,"San Diego,California,United States",HY96R37
+Cust524,Jamie Kunitz,5272075988,"San Francisco,California,United States",YI35Z96
+Cust525,Filia McAdams,2701020870,"Dublin,Ohio,United States",JO24B63
+Cust526,Emily Ducich,4956917604,"San Diego,California,United States",YJ96T52
+Cust527,Dianna Arnett,5587088037,"Houston,Texas,United States",TF29K70
+Cust528,Joni Wasserman,8626059559,"Oakland,California,United States",AH68G38
+Cust529,Raymond Messe,8881358409,"Houston,Texas,United States",YI60L58
+Cust530,Max Ludwig,8662577011,"Suffolk,Virginia,United States",KG19H64
+Cust531,Craig Carroll,9907292517,"Greensboro,North Carolina,United States",NH94K41
+Cust532,Jim Epp,7584373327,"Milwaukee,Wisconsin,United States",PZ10J83
+Cust533,Roy Phan,8442540931,"Kenosha,Wisconsin,United States",CS75J40
+Cust534,Thomas Boland,3989486196,"Houston,Texas,United States",JK35T50
+Cust535,Brad Eason,1702205842,"Olathe,Kansas,United States",ZB92Y72
+Cust536,Jill Fjeld,6568420686,"Dallas,Texas,United States",CH47R66
+Cust537,Phillip Breyer,4095683952,"Tulsa,Oklahoma,United States",LD21S87
+Cust538,Brian Thompson,4290005381,"Newark,Ohio,United States",WK28F81
+Cust539,Janet Lee,1278527874,"Chicago,Illinois,United States",MH35Z49
+Cust540,Cathy Hwang,1717703440,"Raleigh,North Carolina,United States",LC33X54
+Cust541,Neil Ducich,9593604880,"Macon,Georgia,United States",IO94B69
+Cust542,Barbara Fisher,5755362050,"Charlotte,North Carolina,United States",YH29Z58
+Cust543,Katharine Harms,1574188617,"Bowling Green,Kentucky,United States",YO47S61
+Cust544,Giulietta Weimer,4710912379,"Seattle,Washington,United States",ZN46N73
+Cust545,Noah Childs,3945723628,"Aurora,Colorado,United States",OG19D86
+Cust546,Michelle Ellison,9156823940,"San Francisco,California,United States",FS74W90
+Cust547,Benjamin Patterson,6382082024,"Spokane,Washington,United States",NU98T87
+Cust548,John Castell,2268588125,"San Antonio,Texas,United States",NC85M43
+Cust549,Adam Shillingsburg,5767856389,"Charlottesville,Virginia,United States",CI99B88
+Cust550,Amy Cox,2765073160,"Minneapolis,Minnesota,United States",OH23W37
+Cust551,Michael Dominguez,2185613142,"Indianapolis,Indiana,United States",YK85W21
+Cust552,Duane Benoit,4481151890,"Oceanside,New York,United States",NQ40Q95
+Cust553,Erica Hackney,8457701255,"Roswell,Georgia,United States",EJ30J58
+Cust554,Edward Hooks,3394969139,"Watertown,New York,United States",WG49U87
+Cust555,Scot Coram,6600345087,"Arlington,Texas,United States",XF75F35
+Cust556,Joe Elijah,1713620917,"Broomfield,Colorado,United States",RH31C24
+Cust557,Ann Chong,5153111493,"New York City,New York,United States",VJ97N39
+Cust558,Joy Daniels,6096182447,"Chicago,Illinois,United States",PG84S64
+Cust559,Christy Brittain,8211943509,"Columbus,Ohio,United States",TD34I47
+Cust560,Joy Smith,2256204413,"Houston,Texas,United States",CN96Y29
+Cust561,Luke Weiss,6785840118,"Pasadena,California,United States",DG78Z23
+Cust562,Stuart Calhoun,8926068636,"Houston,Texas,United States",ME44D14
+Cust563,Anne McFarland,8917306379,"Auburn,Alabama,United States",MD71H97
+Cust564,Rick Huthwaite,9015226921,"Providence,Rhode Island,United States",LO26X60
+Cust565,Carol Triggs,2710636316,"Rochester,Minnesota,United States",SU67Q72
+Cust566,Matt Collister,2546875436,"Perth Amboy,New Jersey,United States",GG97X98
+Cust567,Corey Catlett,8663416705,"Philadelphia,Pennsylvania,United States",JE93G35
+Cust568,Kelly Andreada,4857014775,"Ontario,California,United States",YK13B68
+Cust569,Tamara Chand,4379932447,"Seattle,Washington,United States",YN75F16
+Cust570,Bart Folk,8310023481,"Baltimore,Maryland,United States",IC24B36
+Cust571,Magdelene Morse,8461516142,"Wilmington,Delaware,United States",XB12W39
+Cust572,Adrian Hane,8090661034,"Tucson,Arizona,United States",OB53H56
+Cust573,Ben Wallace,4861444725,"Boynton Beach,Florida,United States",NU42U42
+Cust574,Scot Wooten,1877121470,"Stockton,California,United States",NB54W23
+Cust575,Brian Stugart,3009320402,"Philadelphia,Pennsylvania,United States",ZL42D83
+Cust576,Randy Ferguson,7314579877,"Dover,New Hampshire,United States",RH39H22
+Cust577,William Brown,9124909595,"Philadelphia,Pennsylvania,United States",VQ92C76
+Cust578,Trudy Brown,2647924162,"Grand Prairie,Texas,United States",JU94N70
+Cust579,Art Ferguson,9375609996,"College Station,Texas,United States",UB88Z13
+Cust580,Richard Bierner,2882968648,"Saint Louis,Missouri,United States",PW13M84
+Cust581,Karen Ferguson,6557736284,"Manteca,California,United States",DI81O21
+Cust582,John Huston,5042870256,"Kent,Ohio,United States",NV65V35
+Cust583,Ivan Liston,1662000795,"San Francisco,California,United States",HO37H84
+Cust584,Patrick Bzostek,8030761937,"Salt Lake City,Utah,United States",KV29D83
+Cust585,Rob Haberlin,9314155528,"Huntsville,Alabama,United States",XE97G51
+Cust586,Arthur Wiediger,7071310773,"Aurora,Illinois,United States",EK26U34
+Cust587,Maris LaWare,5157161597,"Fairfield,Connecticut,United States",LP78D53
+Cust588,Dorothy Badders,7797078662,"Jacksonville,Florida,United States",FU41T98
+Cust589,Matt Hagelstein,6298753038,"San Francisco,California,United States",KX72N10
+Cust590,Dennis Kane,8797409853,"Marion,Ohio,United States",VT87I59
+Cust591,Bobby Trafton,5846500254,"Littleton,Colorado,United States",XU96X43
+Cust592,Denny Blanton,1801488048,"La Porte,Indiana,United States",IZ56O74
+Cust593,Toby Gnade,6237882240,"Los Angeles,California,United States",UX59Y31
+Cust594,Barry Franz,3480018285,"Pasadena,California,United States",WR73G48
+Cust595,Justin MacKendrick,4016536129,"Los Angeles,California,United States",BL69C59
+Cust596,Maria Zettner,2260560839,"San Diego,California,United States",MT80S14
+Cust597,Mitch Webber,8531789731,"New York City,New York,United States",NR58H24
+Cust598,Mark Van Huff,9013316306,"Arlington,Virginia,United States",XL56A38
+Cust599,Sean Miller,7061663559,"Monroe,North Carolina,United States",KQ17N86
+Cust600,Tom Prescott,3003386639,"Seattle,Washington,United States",XF32K99
+Cust601,Jim Karlsson,8857087574,"Seattle,Washington,United States",PJ98F62
+Cust602,Patrick Jones,3650455545,"Murfreesboro,Tennessee,United States",LT71X23
+Cust603,Ricardo Sperren,4853156638,"Seattle,Washington,United States",XQ54A81
+Cust604,Susan Vittorini,9759407470,"New York City,New York,United States",YJ27X14
+Cust605,Becky Castell,9750230938,"Peoria,Arizona,United States",HS58V95
+Cust606,Elizabeth Moffitt,7103269885,"Sioux Falls,South Dakota,United States",ND69F50
+Cust607,Brendan Murry,7567778801,"New York City,New York,United States",DP10R92
+Cust608,Kristina Nunn,9445509147,"Fort Collins,Colorado,United States",VM69G36
+Cust609,Kelly Williams,9020488401,"Clarksville,Tennessee,United States",DC13U47
+Cust610,Scott Cohen,9919841899,"San Francisco,California,United States",FK58E38
+Cust611,Christina VanderZanden,3568440110,"Fresno,California,United States",YX14K37
+Cust612,Speros Goranitis,2218007811,"New York City,New York,United States",TC81J41
+Cust613,Tamara Manning,5898885171,"San Francisco,California,United States",UH94E18
+Cust614,Eleni McCrary,2771592806,"Los Angeles,California,United States",EL37U11
+Cust615,Michelle Lonsdale,6995425303,"Albuquerque,New Mexico,United States",XX18R15
+Cust616,Clay Rozendal,7712792940,"Elmhurst,Illinois,United States",MC41Y74
+Cust617,Annie Zypern,7522545837,"New York City,New York,United States",ZF88X88
+Cust618,Pierre Wener,6439724108,"Louisville,Colorado,United States",EV79F65
+Cust619,Shahid Collister,9807250774,"Seattle,Washington,United States",CJ32Z17
+Cust620,Carlos Meador,9015554160,"Fayetteville,North Carolina,United States",MB80L56
+Cust621,Greg Maxwell,3166258923,"Los Angeles,California,United States",HU97P13
+Cust622,Tim Brockman,6777789991,"New York City,New York,United States",GD83D33
+Cust623,John Murray,4436672932,"Jamestown,New York,United States",PL40W98
+Cust624,Sonia Cooley,5927154745,"Mishawaka,Indiana,United States",KO25C90
+Cust625,Luke Schmidt,7594242648,"Skokie,Illinois,United States",RN19I90
+Cust626,Ralph Ritter,8985411505,"San Francisco,California,United States",YS88O40
+Cust627,Daniel Byrd,2800411667,"Tampa,Florida,United States",CU52D81
+Cust628,Thomas Thornton,8329110407,"Houston,Texas,United States",BP65B81
+Cust629,Lori Olson,2056915027,"La Quinta,California,United States",SF92S86
+Cust630,Ken Dana,2709776868,"Scottsdale,Arizona,United States",RV22T92
+Cust631,Nicole Brennan,8191731406,"Philadelphia,Pennsylvania,United States",WE45R34
+Cust632,Brian Derr,3507973448,"Bowling Green,Kentucky,United States",GY44F73
+Cust633,Chris McAfee,6873369778,"Carrollton,Texas,United States",HS63W21
+Cust634,Edward Nazzal,6296098726,"New York City,New York,United States",YC43E99
+Cust635,Kean Nguyen,3143252007,"Jacksonville,Florida,United States",JW32I59
+Cust636,Bill Overfelt,5398952038,"Los Angeles,California,United States",WI79J99
+Cust637,Aleksandra Gannaway,1324871490,"Los Angeles,California,United States",KF19E48
+Cust638,Matthew Clasen,2627548710,"Saint Louis,Missouri,United States",IO69V71
+Cust639,Tom Ashbrook,5285679682,"New York City,New York,United States",JJ36K82
+Cust640,Jason Fortune-,5043840895,"Seattle,Washington,United States",AD35B89
+Cust641,Tim Taslimi,6783679147,"Los Angeles,California,United States",QM25W85
+Cust642,Sarah Bern,7946887397,"New York City,New York,United States",PK61H12
+Cust643,Craig Leslie,4209474081,"Springfield,Missouri,United States",MO99Z60
+Cust644,Hunter Glantz,3207257530,"Amarillo,Texas,United States",OQ94M66
+Cust645,Nancy Lomonaco,9095313689,"Los Angeles,California,United States",QO63T55
+Cust646,Rick Reed,7296652544,"Lowell,Massachusetts,United States",SO91F24
+Cust647,Toby Carlisle,8935088284,"San Diego,California,United States",KL13C63
+Cust648,Stewart Visinsky,5382562462,"Pueblo,Colorado,United States",NW79K86
+Cust649,Bobby Elias,1618488358,"Lancaster,Ohio,United States",MP53I83
+Cust650,Steve Carroll,8517573683,"Columbus,Georgia,United States",HU48A89
+Cust651,David Flashing,2894852703,"Vallejo,California,United States",DA98Z45
+Cust652,Fred Harton,2697883207,"Seattle,Washington,United States",PO88J53
+Cust653,MaryBeth Skach,3652903679,"San Diego,California,United States",JZ57L31
+Cust654,Ritsa Hightower,3620719024,"Tallahassee,Florida,United States",GI67Z13
+Cust655,George Ashbrook,2539332807,"San Francisco,California,United States",MM54E82
+Cust656,Julie Prescott,7924690025,"Columbus,Georgia,United States",HT48V81
+Cust657,Dean percer,7691755009,"Murray,Utah,United States",IR21P52
+Cust658,Michael Oakman,1271366796,"Dallas,Texas,United States",WC43R55
+Cust659,Denise Leinenbach,8292439767,"Las Cruces,New Mexico,United States",JE90X40
+Cust660,Michelle Huthwaite,3463161861,"Seattle,Washington,United States",MS79Y73
+Cust661,Daniel Raglin,1343038317,"Franklin,Massachusetts,United States",WR50J68
+Cust662,Darrin Martin,8344460541,"Encinitas,California,United States",LW17D42
+Cust663,Carol Adams,9907806593,"Hoover,Alabama,United States",NZ48J74
+Cust664,Anna Chung,2283832858,"Huntsville,Texas,United States",FU27I41
+Cust665,Denise Monton,3090154622,"Roswell,Georgia,United States",YL20H82
+Cust666,Vicky Freymann,8623319817,"Columbus,Indiana,United States",LL17F75
+Cust667,Christopher Conant,7882425161,"Fayetteville,North Carolina,United States",YD48T25
+Cust668,Beth Fritzler,9289361678,"Tucson,Arizona,United States",NB28O34
+Cust669,Harry Greene,3268416967,"Lake Charles,Louisiana,United States",BX96R42
+Cust670,Becky Pak,6845468573,"Columbus,Georgia,United States",WN98W88
+Cust671,Eugene Moren,4403336693,"Glendale,Arizona,United States",YJ68G42
+Cust672,Michelle Arnett,2731249601,"Watertown,New York,United States",DU40R49
+Cust673,Andy Yotov,5627414737,"Oceanside,California,United States",MP81R31
+Cust674,Giulietta Baptist,6504560173,"Philadelphia,Pennsylvania,United States",YJ75E15
+Cust675,Julia Barnett,1890655511,"Columbus,Georgia,United States",AC57A39
+Cust676,Michael Grace,4974604830,"New York City,New York,United States",WO70U88
+Cust677,Sharelle Roach,4015632300,"Louisville,Colorado,United States",CL70P25
+Cust678,Joy Bell-,7951922400,"Brownsville,Texas,United States",BH35M98
+Cust679,Dario Medina,8091629077,"Lincoln Park,Michigan,United States",FN42L58
+Cust680,Tony Chapman,1390477412,"Columbus,Georgia,United States",MX20L36
+Cust681,Sean Wendt,6773694634,"Detroit,Michigan,United States",OA66Z41
+Cust682,Richard Eichhorn,4902606011,"Dallas,Texas,United States",CG69Q98
+Cust683,Benjamin Farhat,8188833647,"Albuquerque,New Mexico,United States",UB53S85
+Cust684,Katrina Bavinger,6220544391,"Apple Valley,California,United States",YY22C31
+Cust685,Jason Gross,5996014572,"Providence,Rhode Island,United States",TR67B41
+Cust686,Erin Creighton,6303556049,"New York City,New York,United States",GT51X57
+Cust687,Eugene Barchas,6236314239,"Philadelphia,Pennsylvania,United States",RQ79Y60
+Cust688,Jennifer Patt,1243504395,"Oceanside,New York,United States",NF53R41
+Cust689,Cari Sayre,7590633550,"Seattle,Washington,United States",QC16Z32
+Cust690,Gary Hansen,3021642348,"Glendale,Arizona,United States",IE18G54
+Cust691,Pete Takahito,2868344024,"Houston,Texas,United States",CL79X55
+Cust692,Jack Lebron,5497040865,"Houston,Texas,United States",AA34D30
+Cust693,Aaron Hawkins,2322164608,"Philadelphia,Pennsylvania,United States",TL70A74
+Cust694,Cindy Chapman,5021862645,"New York City,New York,United States",OA16S22
+Cust695,David Wiener,2707411272,"Houston,Texas,United States",HV28K16
+Cust696,Sarah Jordon,5917637895,"Grand Prairie,Texas,United States",WX83O76
+Cust697,Bruce Geld,8497905457,"Philadelphia,Pennsylvania,United States",OV89X77
+Cust698,Laurel Beltran,2574268757,"Highland Park,Illinois,United States",CR31Q68
+Cust699,Candace McMahon,9042466805,"Pasadena,Texas,United States",UB24V15
+Cust700,Evan Henry,1770238335,"Decatur,Alabama,United States",CJ85B40
+Cust701,Tony Sayre,9200384660,"Columbia,Tennessee,United States",CI24J79
+Cust702,Patrick Ryan,2940674275,"Oakland,California,United States",TF78B35
+Cust703,Liz Carlisle,8681033194,"Mission Viejo,California,United States",HJ76L79
+Cust704,Cindy Schnelling,6192580741,"Conroe,Texas,United States",JA77M57
+Cust705,Dave Hallsten,8351621667,"Richmond,Kentucky,United States",WZ26O90
+Cust706,Jack O'Briant,8926595353,"Philadelphia,Pennsylvania,United States",ZA74W93
+Cust707,Anna Häberlin,9198611715,"New York City,New York,United States",VL29Z86
+Cust708,Heather Jas,9528378853,"Jacksonville,Florida,United States",OQ44Z69
+Cust709,Mark Hamilton,7229549534,"Jacksonville,North Carolina,United States",CN10X24
+Cust710,Russell D'Ascenzo,1382264874,"Austin,Texas,United States",XE48U71
+Cust711,Sam Craven,4913699935,"Plano,Texas,United States",QV83H14
+Cust712,Stephanie Ulpright,2672568826,"Jackson,Mississippi,United States",XD16H65
+Cust713,Fred Chung,1881387387,"Mesquite,Texas,United States",UF69I87
+Cust714,Randy Bradley,2426455773,"Philadelphia,Pennsylvania,United States",RI32V56
+Cust715,Nick Crebassa,7872003285,"Dallas,Texas,United States",PO72L23
+Cust716,Darren Budd,8737886541,"Los Angeles,California,United States",XH49T65
+Cust717,Maureen Fritzler,4562753361,"Toledo,Ohio,United States",ZP56B21
+Cust718,Roland Murray,7115278452,"New York City,New York,United States",IM86P90
+Cust719,Vivian Mathis,5244651084,"Newark,Delaware,United States",SG60B69
+Cust720,Ed Jacobs,3542151032,"San Diego,California,United States",YF13U13
+Cust721,Nathan Cano,4945842654,"Jacksonville,North Carolina,United States",TM99V66
+Cust722,Lycoris Saunders,7401669401,"Dover,Delaware,United States",QZ55P45
+Cust723,Katrina Edelman,3331433639,"Bristol,Tennessee,United States",IJ41L29
+Cust724,Duane Huffman,5663869356,"Quincy,Massachusetts,United States",UG18N81
+Cust725,Peter Fuller,7903716229,"Gilbert,Arizona,United States",CD75U22
+Cust726,Valerie Takahito,3816728931,"Philadelphia,Pennsylvania,United States",AR54F32
+Cust727,Maureen Gnade,9615560891,"Buffalo,New York,United States",EO57N77
+Cust728,Susan Pistek,4167664874,"Los Angeles,California,United States",XO35B54
+Cust729,Charles Sheldon,8740803763,"Columbia,Tennessee,United States",OS13V38
+Cust730,Dana Kaydos,2704240542,"Kenosha,Wisconsin,United States",IC92E54
+Cust731,Khloe Miller,4361287067,"Roswell,Georgia,United States",XL35C56
+Cust732,Anna Andreadi,5692146160,"Chester,Pennsylvania,United States",ZH86B55
+Cust733,Dorothy Dickinson,3680417400,"Houston,Texas,United States",MX73E10
+Cust734,Amy Hunt,3804497026,"New York City,New York,United States",WD74D78
+Cust735,Tracy Poddar,5539860965,"Aurora,Colorado,United States",JO29M62
+Cust736,Eileen Kiefer,5074665000,"Santa Ana,California,United States",SN77P55
+Cust737,Cyra Reiten,7274785491,"New York City,New York,United States",BH27N94
+Cust738,Susan Gilcrest,1918254028,"Mcallen,Texas,United States",XL97O74
+Cust739,Angele Hood,7842954169,"Chicago,Illinois,United States",FL19X20
+Cust740,Neil Französisch,8355855282,"Rockford,Illinois,United States",IP70J85
+Cust741,Bill Shonely,5957115523,"New York City,New York,United States",ZU15N77
+Cust742,Stefanie Holloman,6570825313,"Jackson,Tennessee,United States",HY79H50
+Cust743,Roger Demir,8317103491,"Daytona Beach,Florida,United States",KZ97E90
+Cust744,Alex Grayson,7194895177,"Stockton,California,United States",MR18S33
+Cust745,Georgia Rosenberg,4235172713,"San Francisco,California,United States",KY94F33
+Cust746,Vivek Sundaresam,1449037019,"Los Angeles,California,United States",UZ88M70
+Cust747,Tony Molinari,1700934916,"Oklahoma City,Oklahoma,United States",EQ51V62
+Cust748,Tom Stivers,4606075067,"Los Angeles,California,United States",YN46A67
+Cust749,Dennis Bolton,4482941230,"New York City,New York,United States",QY59C11
+Cust750,Nick Radford,2518131145,"Aurora,Illinois,United States",VE81U59
+Cust751,Cari Schnelling,4367840230,"Jacksonville,North Carolina,United States",YA94C52
+Cust752,Monica Federle,2451092024,"Los Angeles,California,United States",LJ16I87
+Cust753,Liz Willingham,4602710894,"Norwich,Connecticut,United States",JS11K38
+Cust754,Alex Russell,4619140020,"Lawrence,Massachusetts,United States",NV61W39
+Cust755,Karen Seio,3302001877,"Lehi,Utah,United States",CD43V69
+Cust756,Aaron Bergman,5232536427,"Seattle,Washington,United States",XX41V43
+Cust757,Lisa Ryan,1936872422,"Philadelphia,Pennsylvania,United States",EY67A69
+Cust758,Shahid Shariari,8045943760,"Los Angeles,California,United States",JZ52T43
+Cust759,Jill Matthias,2488161317,"Monroe,North Carolina,United States",JI81Y37
+Cust760,Jason Klamczynski,7990340831,"Dallas,Texas,United States",GR84Q74
+Cust761,Don Miller,9870761122,"Houston,Texas,United States",WM33K30
+Cust762,Muhammed Lee,6730641538,"Seattle,Washington,United States",OC98E50
+Cust763,Marc Harrigan,1637990156,"Los Angeles,California,United States",JO74Q89
+Cust764,Frank Carlisle,8929717937,"Lakewood,Ohio,United States",CW80B81
+Cust765,Thea Hudgings,4741263274,"Philadelphia,Pennsylvania,United States",LE63F61
+Cust766,Juliana Krohn,2271156686,"Omaha,Nebraska,United States",TN12W66
+Cust767,Sarah Brown,2429179915,"Concord,New Hampshire,United States",RD58U57
+Cust768,Barry Gonzalez,3591289995,"Monroe,Louisiana,United States",WN79N27
+Cust769,Barry Weirich,9174421691,"Raleigh,North Carolina,United States",IK29H50
+Cust770,Mitch Gastineau,2585839749,"Jacksonville,Florida,United States",AT31P76
+Cust771,Doug O'Connell,1536197094,"Los Angeles,California,United States",DZ52S53
+Cust772,Barry Pond,1556166976,"Cranston,Rhode Island,United States",ZR52D40
+Cust773,Trudy Schmidt,4591211752,"Milwaukee,Wisconsin,United States",NA19P19
+Cust774,Evan Minnotte,9060623356,"Virginia Beach,Virginia,United States",MR58D40
+Cust775,Anthony O'Donnell,1371814281,"Los Angeles,California,United States",VU13S40
+Cust776,Mark Haberlin,9780798714,"New York City,New York,United States",VZ11L69
+Cust777,Shirley Schmidt,4260476029,"Louisville,Kentucky,United States",NE86F84
+Cust778,Lela Donovan,7339157109,"Chicago,Illinois,United States",CV58W94
+Cust779,Victoria Pisteka,8993438391,"San Francisco,California,United States",HD64G38
+Cust780,Theresa Coyne,8664398811,"Lakewood,New Jersey,United States",IN20M11
+Cust781,Ionia McGrath,7766359245,"Roseville,California,United States",ZE84X88
+Cust782,Anemone Ratner,2894716134,"Columbus,Georgia,United States",NM61S95
+Cust783,Craig Molinari,9107498914,"Huntsville,Texas,United States",JW57T38
+Cust784,Fred Wasserman,4647414813,"Huntsville,Alabama,United States",AE46Z61
+Cust785,Lindsay Castell,1300050393,"Arlington,Virginia,United States",AQ99N30
+Cust786,Harold Engle,5435492557,"Chicago,Illinois,United States",NL15W17
+Cust787,Brendan Dodson,4971727836,"Fresno,California,United States",DT47I90
+Cust788,Harold Dahlen,5676447053,"Philadelphia,Pennsylvania,United States",BP61A32
+Cust789,Carl Jackson,5940592349,"Philadelphia,Pennsylvania,United States",TM43Z55
+Cust790,Roy Skaria,5320023012,"Burlington,Iowa,United States",BJ85B60
+Cust791,Sung Chung,4414121720,"Arlington Heights,Illinois,United States",GN90Z44
+Cust792,Ricardo Emerson,7394563090,"Kent,Ohio,United States",RM48F64
+Cust793,Susan MacKendrick,8469687542,"Newark,Ohio,United States",FI75E22

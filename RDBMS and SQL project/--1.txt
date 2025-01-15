@@ -1,0 +1,95 @@
+--1
+SELECT AVG(salary, 0)
+FROM employees
+WHERE employee_id IN (1022,1023,1024,1025);
+
+--2
+SELECT AVG(IFNULL(salary, 0))
+FROM employees
+WHERE employee_id IN (1022,1023,1024,1025);
+
+--3
+SELECT MIN(salary) AS "Minimum", MAX(salary), AVG(salary)
+FROM employees
+WHERE job_id IN (907, 908, 909) AND (hire_date >= '2017-01-01' AND hire_date <= '2017-12-31');
+
+--4
+Select manager_id, MIN(salary)
+FROM employees
+WHERE manager_id IS NOT NULL
+GROUP BY manager_id
+Having MIN(salary) >= 47000;
+
+--5
+Select department_Id AS "DeptID" ,MIN(salary) AS "Minimum", MAX(salary)"Maximum", AVG(salary)"Average"
+FROM employees
+WHERE department_id IS NOT NULL
+GROUP BY department_id
+HAVING (AVG(salary) > 500000 AND MAX(salary) > 500000);
+
+--5
+Select d.department_id, d.department_name, AVG(e.salary) AS "Average"
+FROM departments d LEFT OUTER JOIN employees e
+ON d.department_id = e.department_id
+GROUP BY d. department_id;
+
+--6
+Select j.job_id "Job Id", j.job_title AS "Job Title", COUNT(e.job_id) AS "Staff Count"
+FROM jobs j JOIN employees e
+ON j.job_id = e.job_id
+AND j.job_title NOT LIKE '%Manag%'
+GROUP BY e.job_id
+HAVING COUNT(e.job_id) >= 2
+ORDER BY j.job_title;
+
+--7
+SELECT department_id, last_name, hire_date
+FROM employees
+WHERE  department_id IN 
+(SELECT department_id
+ FROM employees
+ WHERE last_name = 'Matos'
+ AND last_name <> 'Matos'
+ ORDER BY department_id);
+
+--8
+SELECT last_name, salary
+FROM employees
+WHERE salary > (SELECT MAX(salary) 
+                FROM employees
+                WHERE department_id = 40);
+
+--8 v2
+SELECT last_name, salary
+FROM employees
+WHERE salary > (SELECT MIN(salary) 
+                FROM employees
+                WHERE department_id = 10);
+
+--9
+SELECT e.department_id,e.last_name, e.salary,e.hire_date
+FROM employees e JOIN departments d 
+ON d.department_id = e.department_id
+AND d.location_id = 100;
+
+--10
+SELECT e.employee_id ,e.last_name, e.salary
+FROM employees m JOIN employees e
+ON m.employee_id = e.manager_id
+AND m.first_name LIKE 'J%';
+
+--11
+SELECT last_name, salary
+FROM employees
+WHERE department_id IN 
+(SELECT department_id
+ FROM employees
+ WHERE hire_date >= '2017-01-01')
+ AND salary >= 
+ (SELECT AVG(SALARY)
+ FROM employees
+ WHERE department_id IS NULL);
+
+-12
+
+

@@ -1,0 +1,62 @@
+
+CREATE TABLE `Customer_dim` (
+  `CustomerID` varchar(10)  NOT NULL,
+  CustomerName varchar(22) DEFAULT NULL,
+  PRIMARY KEY (`CustomerID`)
+);
+
+CREATE TABLE `Product_Dim` (
+  `ProductID` varchar(15)  NOT NULL,
+  ProductName varchar(109) DEFAULT NULL,
+  PRIMARY KEY (`ProductID`)
+);
+
+CREATE TABLE `Staff_Dim` (
+  `CashierID` varchar(9)  NOT NULL,
+  CashierName varchar(11) DEFAULT NULL,
+  PRIMARY KEY (`CashierID`)
+);	
+
+CREATE TABLE `FACT_TRANSACTIONS` (
+  `TransactionID` varchar(13)  NOT NULL,
+  `Transaction_date` date DEFAULT NULL,
+  `CustomerID` varchar(10) DEFAULT NULL,
+  `CustomerName` varchar(50)  DEFAULT NULL,
+  `ProductID` varchar(15) DEFAULT NULL,
+  `ProductName` varchar(225)  DEFAULT NULL,
+  `CategoryID` varchar(10) DEFAULT NULL,
+  `Quantity` int DEFAULT NULL,
+  `Subtotal` float DEFAULT NULL,
+  `Taxes` float DEFAULT NULL,
+  `DiscountPrice` float DEFAULT NULL,
+  `TotalAmount` float DEFAULT NULL,
+  `Payment_Method` varchar(50)  DEFAULT NULL,
+  `CashierID` varchar(9) DEFAULT NULL,
+  `CashierName` varchar(50)  DEFAULT NULL,
+); 
+
+
+
+ALTER TABLE `FACT_TRANSACTIONS`
+  ADD PRIMARY KEY(`TransactionID` );
+
+ALTER TABLE `w1943544_0`.`FACT_TRANSACTIONS` DROP INDEX `TransactionID`, ADD INDEX `TransactionID` (`TransactionID`, `CustomerID`, `ProductID`, `CashierID`) USING BTREE;
+
+
+ALTER TABLE FACT_TRANSACTIONS
+ADD FOREIGN KEY (ProductID) REFERENCES  Product_Dim(ProductID);
+
+ALTER TABLE FACT_TRANSACTIONS
+ADD FOREIGN KEY (CustomerID) REFERENCES  Customer_dim(CustomerID);
+
+ALTER TABLE FACT_TRANSACTIONS
+ADD FOREIGN KEY (CashierID) REFERENCES  Staff_Dim(CashierID);
+
+
+
+
+SHOW CREATE TABLE FACT_TRANSACTIONS;
+
+
+
+
