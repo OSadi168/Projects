@@ -1,0 +1,3 @@
+This project focuses on the critical task of detecting fraudulent credit card transactions by analysing transaction data and developing a robust machine learning system. The goal is to train, test, and deploy advanced models including Logistic Regression, Random Forest, and Gradient Boosting Machine, to accurately flag suspicious activities. 
+
+For the moment I have used Logistic Regression one of the three algorithms. Currently I am working on create a simulated website.
