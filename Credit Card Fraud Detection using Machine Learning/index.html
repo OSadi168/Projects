@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html >
+<!--From https://codepen.io/frytyler/pen/EGdtg-->
+<head>
+  <meta charset="UTF-8">
+  <title>Final Year Project - Om Sadigale</title>
+    <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+
+ <style>
+     body {
+         background-color: lightblue;
+        /* background-image: url("BG1.jpg");*/
+              margin-top: 100px;
+              margin-bottom: 100px;
+              margin-right: 150px;
+              margin-left: 500px;
+           }
+h1 {
+    margin-top: 1px;
+    margin-left:0px;
+    color: Black;
+    font-size: 40px;
+}
+input{
+  width: 50%;
+  padding: 5px 20px;
+  margin: auto;
+  box-sizing: border-box;
+  border-bottom: 4px solid black;
+}
+button {
+  display: inline-block;
+  margin: 0px;
+  background-color: CornflowerBlue; /* Green */
+  color: white;
+  padding: 10px 100px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+ /* margin-left:10px*/
+}
+predi{
+    margin-left:60px;
+    color:white;
+}
+nav {
+    display: flex;
+  flex-direction: row;
+ }
+
+    </style>
+    <script>
+        function populateDataset1() {
+          document.getElementById("myTextBox").value = "Data Set 1";
+          document.getElementById("Id").value = 1;
+          document.getElementById("V1").value = 0.802894524093678;
+document.getElementById("V2").value = -0.335872966049322;
+document.getElementById("V3").value = 0.40103099333075;
+document.getElementById("V4").value = 0.153037626065433;
+document.getElementById("V5").value = 0.77877758133276;
+document.getElementById("V6").value = 1.36801203802755;
+document.getElementById("V7").value = 0.470729727057827;
+document.getElementById("V8").value = -0.030872678187957;
+document.getElementById("V9").value = -0.118307356696098;
+document.getElementById("V10").value = 0.952325896995669;
+document.getElementById("V11").value = 0.168817994103083;
+document.getElementById("V12").value = 0.915853007681937;
+document.getElementById("V13").value = -0.884671324819045;
+document.getElementById("V14").value = 1.38816126802641;
+document.getElementById("V15").value = 0.800746734367898;
+document.getElementById("V16").value = 0.155443466427243;
+document.getElementById("V17").value = 0.584733941941221;
+document.getElementById("V18").value = -0.518946958968648;
+document.getElementById("V19").value = -2.12901227314103;
+document.getElementById("V20").value = -0.442417297099961;
+document.getElementById("V21").value = -0.04588117312806;
+document.getElementById("V22").value = 0.337670455376275;
+document.getElementById("V23").value = -0.0727337627962507;
+document.getElementById("V24").value = -2.17456689480057;
+document.getElementById("V25").value = 0.564637557158066;
+document.getElementById("V26").value = 0.45633396836178;
+document.getElementById("V27").value = -0.219078441352727;
+document.getElementById("V28").value = -0.135445673515683;
+document.getElementById("Amount").value = 20114.14;
+
+
+       }
+    </script>
+  <script>
+        function populateDataset2() {
+          document.getElementById("myTextBox").value = "Data Set 2";
+          document.getElementById("Id").value =2;
+          document.getElementById("V1").value = -0.478427196099054;
+document.getElementById("V2").value = 0.142165124287612;
+document.getElementById("V3").value = -0.0468380289121661;
+document.getElementById("V4").value = 0.683350268087005;
+document.getElementById("V5").value = 0.0678198572410411;
+document.getElementById("V6").value = -0.404898459464024;
+document.getElementById("V7").value = -0.206495966091844;
+document.getElementById("V8").value = 0.184366107275398;
+document.getElementById("V9").value = -0.762934704361134;
+document.getElementById("V10").value = -0.228391802249154;
+document.getElementById("V11").value = 0.660903019847465;
+document.getElementById("V12").value = -0.387519749827641;
+document.getElementById("V13").value = -0.533249442461466;
+document.getElementById("V14").value = -0.502265671964952;
+document.getElementById("V15").value = 0.405143086866219;
+document.getElementById("V16").value = -0.0606910405034945;
+document.getElementById("V17").value = -0.207236744398097;
+document.getElementById("V18").value = 0.305602611642564;
+document.getElementById("V19").value = 0.134875724298179;
+document.getElementById("V20").value = -0.0339211457440372;
+document.getElementById("V21").value = 0.0989766935994606;
+document.getElementById("V22").value = -0.0751912083426939;
+document.getElementById("V23").value = -0.481489337227156;
+document.getElementById("V24").value = 0.678899638407629;
+document.getElementById("V25").value = -0.0115196803518529;
+document.getElementById("V26").value = 0.409020786854502;
+document.getElementById("V27").value = 0.0758593945999199;
+document.getElementById("V28").value = -0.447139138855719;
+document.getElementById("Amount").value = 1534.53;
+         }
+    </script>
+
+</head>
+
+
+<body>
+
+ <div class="login">
+	<h1>Credit Card Fraud Detection Model</h1>
+    <!-- N	P	K	temperature	humidity	ph	rainfall	label -->
+     <!-- Main Input For Receiving Query to our ML -->
+     <h2 id="predi">
+       {{ prediction_text }}
+     </h2>
+    <nav>
+        <button onclick="populateDataset1()">DataSet 1</button>
+        <button onclick="populateDataset2()">DataSet 2</button>
+    </nav>
+
+     <input type="text" id="myTextBox" placeholder="Click the button to populate DataSet 1">
+
+      <form action="{{ url_for('predict')}}" method="POST">
+       <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+       <div><input type="number" required name="Id" id="Id" placeholder="Id"></div>
+       <div><input type="number" step="any" name="V1" id="V1" placeholder="V1"></div>
+        <div><input type="number" step="any"  name="V2" id="V2" placeholder="V2"></div>
+        <div><input type="number" step="any"  name="V3" id="V3" placeholder="V3"></div>
+        <div><input type="number" step="any"  name="V4" id="V4" placeholder="V4"></div>
+        <div><input type="number" step="any"  name="V5" id="V5" placeholder="V5"></div>
+        <div><input type="number" step="any"  name="V6" id="V6" placeholder="V6"></div>
+        <div><input type="number" step="any"  name="V7" id="V7" placeholder="V7"></div>
+        <div><input type="number" step="any"  name="V8" id="V8" placeholder="V8"></div>
+        <div><input type="number" step="any"  name="V9" id="V9" placeholder="V9"></div>
+        <div><input type="number" step="any"  name="V10" id="V10" placeholder="V10"></div>
+        <div><input type="number" step="any"  name="V11" id="V11" placeholder="V11"></div>
+        <div><input type="number" step="any"  name="V12" id="V12" placeholder="V12"></div>
+        <div><input type="number" step="any"  name="V13" id="V13" placeholder="V13"></div>
+        <div><input type="number" step="any"  name="V14" id="V14" placeholder="V14"></div>
+        <div><input type="number" step="any"  name="V15" id="V15" placeholder="V15"></div>
+        <div><input type="number" step="any"  name="V16" id="V16" placeholder="V16"></div>
+        <div><input type="number" step="any"  name="V17" id="V17" placeholder="V17"></div>
+        <div><input type="number" step="any"  name="V18" id="V18" placeholder="V18"></div>
+        <div><input type="number" step="any"  name="V19" id="V19" placeholder="V19"></div>
+        <div><input type="number" step="any"  name="V20" id="V20" placeholder="V20"></div>
+        <div><input type="number" step="any"  name="V21" id="V21" placeholder="V21"></div>
+        <div><input type="number" step="any"  name="V22" id="V22" placeholder="V22"></div>
+        <div><input type="number" step="any"  name="V23" id="V23" placeholder="V23"></div>
+        <div><input type="number" step="any"  name="V24" id="V24" placeholder="V24"></div>
+        <div><input type="number" step="any"  name="V25" id="V25" placeholder="V25"></div>
+        <div><input type="number" step="any"  name="V26" id="V26" placeholder="V26"></div>
+        <div><input type="number" step="any"  name="V27" id="V27" placeholder="V27"></div>
+        <div><input type="number" step="any"  name="V28" id="V28" placeholder="V28"></div>
+        <div><input type="number" step="any"  name="Amount" id="Amount" placeholder="Amount"></div>
+      </form>
+
+   <br>
+ </div>
+
+</body>
+</html>
