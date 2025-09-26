@@ -1,0 +1,3 @@
+The Koru Impact Project focused on assessing environmental and social impact, with a particular emphasis on water contamination. My role was to act as a data auditor, ensuring data quality before analysis by checking inconsistencies, validating sources, and identifying gaps. I also researched and integrated new datasets based on their relevance and how well they linked with existing data.
+
+The project made use of Python (pandas, NumPy), SQL, and data visualisation tools to build pipelines and dashboards that transformed raw data into actionable insights. This work helped the company improve the reliability of its impact reporting, strengthen decision‑making, and build trust with stakeholders through transparent, data‑driven evidence.
