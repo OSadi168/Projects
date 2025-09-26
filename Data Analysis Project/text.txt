@@ -1,1 +1,2 @@
-There are two parts in the document. First part is an explanation on research while the second part is using excel to analyse data
+This project combines exploratory data analysis and predictive modelling using a real-world dataset. It includes both a written report and a supporting Excel workbook. Key components involve data cleaning, visualisation, statistical analysis, and regression modelling. The project highlights analytical thinking, technical execution, and clear presentation of insights for decision-making.
+There are two parts in the document. First part is an explanation on research while the second part is using excel to analyse data. 
